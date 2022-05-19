@@ -1,2 +1,1 @@
-# bias-tagger
-Code and data for , "Auto-detection Biased Language in Articles using Deep learning"
+## Auto-detection Biased Language
