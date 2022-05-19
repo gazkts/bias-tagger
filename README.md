@@ -20,6 +20,6 @@ $ pip install -r requirements.txt
 
 ## Summarize
 
-Sentence <img src="summarize/sentence.png" alt="sentence" width="650"/>
+<img src="summarize/sentence.png" alt="sentence" width="650"/>
 
-Word <img src="summarize/word.png" alt="word" width="650"/>
+<img src="summarize/word.png" alt="word" width="650"/>
