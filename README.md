@@ -17,3 +17,11 @@ $ pip install -r requirements.txt
 `create_dataset/`: Code for making the dataset. It works by crawling and filtering Wikipedia for bias-driven edits.
 
 `train_model/`: Code for training models and using trained models.
+
+## Summarize
+
+Sentence
+<img src="summarize/sentence.png" alt="sentence" width="650"/>
+
+Word
+<img src="summarize/word.png" alt="word" width="650"/>
